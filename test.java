@@ -5,5 +5,7 @@ public class test {
 
    int k=2;
 
+   int s =6;
+
     
 }

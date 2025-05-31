@@ -6,6 +6,5 @@ class demo{
         System.out.println("Hello");
     }
 
-    String name ="java";
    
 }
